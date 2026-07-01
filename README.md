@@ -20,14 +20,14 @@ A simple **CRUD Todo Application** built using **AngularJS**.
 
 ## Screenshot
 
-![Todo App](images/screenshot.png)
+![Todo App](img/ss.png)
 
 ## Run Locally
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/anikchand461/angularjs-todo-app.git
+git clone https://github.com/anikchand461/CRUD-AngularJS.git
 ```
 
 Open `index.html` in your browser or use **VS Code Live Server**.
